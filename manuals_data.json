@@ -9,6 +9,9 @@
     "プレイステーション",
     "セガサターン"
   ],
+  "_closed_consoles": [
+    "ファミリーコンピュータ"
+  ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
       "romaji": "akumahyou densetu",
@@ -1407,17 +1410,6 @@
         "E:/サムネ/FC サムネ/Kousien/説明書/20230629224540.webp",
         "E:/サムネ/FC サムネ/Kousien/説明書/20230629224544.webp",
         "E:/サムネ/FC サムネ/Kousien/説明書/20230629224548.webp"
-      ]
-    },
-    "クルクルランド": {
-      "romaji": "cluclu land",
-      "pages": [
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20210827190759.webp",
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20210827190812.webp",
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20210827190819.webp",
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20210827190829.webp",
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20210827190844.webp",
-        "E:/サムネ/FC サムネ/kurukuru land/説明書/20231027220609.webp"
       ]
     },
     "究極ハリキリスタジアム": {
@@ -4251,6 +4243,17 @@
         "E:/サムネ/FC サムネ/SD Gundam - Gachapon Senshi 3/説明書/スクリーンショット (347).webp",
         "E:/サムネ/FC サムネ/SD Gundam - Gachapon Senshi 3/説明書/スクリーンショット (348).webp"
       ]
+    },
+    "クルクルランド": {
+      "romaji": "cluclu land",
+      "pages": [
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20210827190759.webp",
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20210827190812.webp",
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20210827190819.webp",
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20210827190829.webp",
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20210827190844.webp",
+        "E:/サムネ/FC サムネ/CLUCLU LAND/説明書/20231027220609.webp"
+      ]
     }
   },
   "スーパーファミコン": {
@@ -4491,6 +4494,1205 @@
         "E:/サムネ/SFC サムネ/Akumajo Dorakyura/説明書/20250802112918.webp",
         "E:/サムネ/SFC サムネ/Akumajo Dorakyura/説明書/20250802112922.webp",
         "E:/サムネ/SFC サムネ/Akumajo Dorakyura/説明書/20250802112926.webp"
+      ]
+    },
+    "悪魔城ドラキュラXX": {
+      "romaji": "akumajou dracula xx",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115649.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115652.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115656.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115700.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115703.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115707.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115711.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115715.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115719.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115723.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115727.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115730.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115735.webp",
+        "E:/サムネ/SFC サムネ/Akumajo DorakyuraXX/説明書/20260822115739.webp"
+      ]
+    },
+    "アルバートオデッセイ": {
+      "romaji": "albert odyssey",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (167).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1473).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1474).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1475).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1476).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1477).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1478).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1479).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1480).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1481).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1482).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1483).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1484).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1485).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1486).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1487).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1488).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1489).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1490).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey/説明書/スクリーンショット (1491).webp"
+      ]
+    },
+    "アルバートオデッセイ2 邪神の胎動": {
+      "romaji": "albert odyssey2",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1494).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1495).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1496).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1497).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1498).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1499).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1500).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1501).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1502).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1503).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1504).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1505).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1506).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1507).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1508).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1509).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1510).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1511).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1512).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1513).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1514).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1515).webp",
+        "E:/サムネ/SFC サムネ/Albert Odyssey2/説明書/スクリーンショット (1516).webp"
+      ]
+    },
+    "アンジェリーク": {
+      "romaji": "angelique",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222823.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222827.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222922.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222926.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222931.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222936.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222940.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222945.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222950.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222955.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230222959.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223004.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223008.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223013.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223017.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223022.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223027.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223031.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223036.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223040.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223045.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223049.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223054.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223058.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223103.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223107.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223110.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223114.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223118.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223122.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223127.webp",
+        "E:/サムネ/SFC サムネ/Angelique/説明書/20221230223132.webp"
+      ]
+    },
+    "アップルシード プロメテウスの神託": {
+      "romaji": "appleseed",
+      "pages": [
+        "E:/サムネ/SFC サムネ/APPLESEED/説明書/Noimage.webp"
+      ]
+    },
+    "アクタリオン": {
+      "romaji": "aqutallion",
+      "pages": [
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508231947.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508231950.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508231955.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508231958.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232003.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232007.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232010.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232014.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232018.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232022.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232026.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232029.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232033.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232037.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232041.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232044.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232048.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232051.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232056.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232100.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232104.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232109.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232113.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232117.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240508232121.webp",
+        "E:/サムネ/SFC サムネ/AQUTALLION/説明書/20240510214831.webp"
+      ]
+    },
+    "アラビアンナイト": {
+      "romaji": "arabian night",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235305.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235309.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235313.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235317.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235321.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235326.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235331.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235335.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235339.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235343.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235347.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235350.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235354.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235358.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235402.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235406.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235409.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235413.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235416.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235420.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235425.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235428.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235432.webp",
+        "E:/サムネ/SFC サムネ/Arabian night/説明書/20260707235436.webp"
+      ]
+    },
+    "あらいぐまラスカル": {
+      "romaji": "araiguma rasukal",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024330.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024334.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024339.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024343.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024348.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024353.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024357.webp",
+        "E:/サムネ/SFC サムネ/Araiguma Rasukal/説明書/20241115024403.webp"
+      ]
+    },
+    "あさめしまえにゃんこ": {
+      "romaji": "asameshimae nyanko",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000244.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000248.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000254.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000258.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000301.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000305.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000310.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000314.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000319.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000324.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000329.webp",
+        "E:/サムネ/SFC サムネ/Asamesi Mae Nyanko/説明書/20250709000334.webp"
+      ]
+    },
+    "あしたのジョー": {
+      "romaji": "asita no jyoo",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Asita no Jyoo/説明書/Noimage.webp"
+      ]
+    },
+    "アクスレイ": {
+      "romaji": "axelay",
+      "pages": [
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214359.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214403.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214408.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214412.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214416.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214421.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214425.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214429.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214434.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214438.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214443.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214447.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214451.webp",
+        "E:/サムネ/SFC サムネ/AXELAY/説明書/20231101214455.webp"
+      ]
+    },
+    "バハムートラグーン": {
+      "romaji": "bahanut lagoon",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124928.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124931.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124935.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124938.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124942.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124945.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124949.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124953.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127124956.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125000.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125003.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125007.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125011.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125014.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125018.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125022.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125025.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125029.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125033.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125037.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125041.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125045.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125048.webp",
+        "E:/サムネ/SFC サムネ/Bahanut Lagoon/説明書/20211127125052.webp"
+      ]
+    },
+    "バトルサブマリン": {
+      "romaji": "battle submarine",
+      "pages": [
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174905.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174910.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174914.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174921.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174927.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174932.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174939.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174943.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174948.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174953.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724174958.webp",
+        "E:/サムネ/SFC サムネ/BATTLE SUBMARINE/説明書/20220724175002.webp"
+      ]
+    },
+    "聖獣魔伝ビースト&ブレイド": {
+      "romaji": "beasts & blades",
+      "pages": [
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174128.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174132.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174136.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174141.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174145.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174150.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174156.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174200.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174205.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174209.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174214.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174219.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174224.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174229.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174234.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174238.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20221023174243.webp",
+        "E:/サムネ/SFC サムネ/BEASTS & BLADES/説明書/20230322155811.webp"
+      ]
+    },
+    "バイオメタル": {
+      "romaji": "biometal",
+      "pages": [
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235518.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235522.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235526.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235529.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235533.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235537.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235542.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235546.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235550.webp",
+        "E:/サムネ/SFC サムネ/BIOMETAL/説明書/20220617235555.webp"
+      ]
+    },
+    "ザ・ブルークリスタルロッド": {
+      "romaji": "blue crystal rod",
+      "pages": [
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214039.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214044.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214050.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214056.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214101.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214106.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214111.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214117.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214120.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214123.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214127.webp",
+        "E:/サムネ/SFC サムネ/BLUE CRYSTAL ROD/説明書/20260508214131.webp"
+      ]
+    },
+    "美少女雀士スーチーパイ": {
+      "romaji": "bishoujo janshi suchie-pai",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211111.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211115.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211119.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211123.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211127.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211131 (1).webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211131.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708211136.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708213201.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/20220708213412.webp",
+        "E:/サムネ/SFC サムネ/Bishoujo Janshi Suchie-Pai/説明書/スクリーンショット (1519).webp"
+      ]
+    },
+    "牧場物語": {
+      "romaji": "bokujou monogatari",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214149.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214153.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214156.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214159.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214203.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214207.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214211.webp",
+        "E:/サムネ/SFC サムネ/Bokujyou Monogatari/説明書/20240730214214.webp"
+      ]
+    },
+    "ボンバザル": {
+      "romaji": "bombruzal",
+      "pages": [
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170657.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170721.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170748.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170818.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170847.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170917.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170935.webp",
+        "E:/サムネ/SFC サムネ/BOMBRUZAL/説明書/20210829170953.webp"
+      ]
+    },
+    "ブランディッシュ": {
+      "romaji": "brandish",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (15).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1521).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1522).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1523).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1524).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1525).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1526).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1527).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1528).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1529).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1530).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1531).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1532).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1533).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1534).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1535).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1536).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1537).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1538).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1539).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1540).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1541).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1542).webp",
+        "E:/サムネ/SFC サムネ/Brandish/説明書/スクリーンショット (1543).webp"
+      ]
+    },
+    "ブランディッシュ2 エキスパート": {
+      "romaji": "brandish 2 expert",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (11).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1547).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1548).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1549).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1550).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1551).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1552).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1553).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1554).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1555).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1556).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1557).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1558).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1559).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1560).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1561).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1562).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1563).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1564).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1565).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1566).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1567).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1568).webp",
+        "E:/サムネ/SFC サムネ/Brandish 2 EXPERT/説明書/スクリーンショット (1569).webp"
+      ]
+    },
+    "キャメルトライ": {
+      "romaji": "cameltry",
+      "pages": [
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1１1).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1573).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1574).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1575).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1576).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1577).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1578).webp",
+        "E:/サムネ/SFC サムネ/CAMELTRY/説明書/スクリーンショット (1579).webp"
+      ]
+    },
+    "キャプテン翼3 皇帝の挑戦": {
+      "romaji": "captain tsubasa iii - koutei no chousen",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223310.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223314.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223319.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223322.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223328.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223332.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223336.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223341.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223345.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223349.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223359.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223402.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223406.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223411.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223415.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223420.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223423.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223426.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223431.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223434.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223438.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223442.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223447.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223451.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223454.webp",
+        "E:/サムネ/SFC サムネ/Captain Tsubasa III - Koutei no Chousen/説明書/20240420223457.webp"
+      ]
+    },
+    "カードマスター リムサリアの封印": {
+      "romaji": "card master",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (19).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1583).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1584).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1585).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1586).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1587).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1588).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1589).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1590).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1591).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1592).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1593).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1594).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1595).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1596).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1597).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1598).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1599).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1600).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1601).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1602).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1603).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1604).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1605).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1606).webp",
+        "E:/サムネ/SFC サムネ/Card Master/説明書/スクリーンショット (1607).webp"
+      ]
+    },
+    "カオスシード 風水回廊記": {
+      "romaji": "chaosseed fuusuikairouki",
+      "pages": [
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (19).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1611).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1612).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1613).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1614).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1615).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1616).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1617).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1618).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1619).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1620).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1621).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1622).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1623).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1624).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1625).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1626).webp",
+        "E:/サムネ/SFC サムネ/CHAOSSEED fuusuikairouki/説明書/スクリーンショット (1627).webp"
+      ]
+    },
+    "超魔界大戦!どらぼっちゃん": {
+      "romaji": "chou makai taisen! dorabocchan",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014241.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014246.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014250.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014255.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014259.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014303.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014308.webp",
+        "E:/サムネ/SFC サムネ/Chou Makai Taisen! Dorabocchan/説明書/20230325014459.webp"
+      ]
+    },
+    "超攻合神サーディオン": {
+      "romaji": "choukou gasshin xardion",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (13).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1631).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1632).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1633).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1634).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1635).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1636).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1637).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1638).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1639).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1640).webp",
+        "E:/サムネ/SFC サムネ/Choukou Gasshin Xardion/説明書/スクリーンショット (1641).webp"
+      ]
+    },
+    "クロノ・トリガー": {
+      "romaji": "chrono trigger",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205358.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205403.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205407.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205412.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205416.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205421.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205426.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205431.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205435.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205440.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205445.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205450.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205454.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205458.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205504.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205508.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205513.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205517.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205522.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205532.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205537.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205542.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205547.webp",
+        "E:/サムネ/SFC サムネ/Chrono Trigger/説明書/20240316205551.webp"
+      ]
+    },
+    "クロックタワー": {
+      "romaji": "clock tower",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145443.webp",
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145448.webp",
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145452.webp",
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145456.webp",
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145506.webp",
+        "E:/サムネ/SFC サムネ/Clock Tower/説明書/20231109145510.webp"
+      ]
+    },
+    "コズモギャング ザ パズル": {
+      "romaji": "cosmo gang - the puzzle",
+      "pages": [
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918221953.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918221956.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222000.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222004.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222008.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222012.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222017.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222021.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222026.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222029.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222035.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE PUZZLE/説明書/20240918222040.webp"
+      ]
+    },
+    "コズモギャング ザ ビデオ": {
+      "romaji": "cosmo gang the video",
+      "pages": [
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234607.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234611.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234615.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234620.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234624.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234628.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234632.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234636.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234641.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234645.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234649.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234653.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234657.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234701.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234705.webp",
+        "E:/サムネ/SFC サムネ/COSMO GANG THE VIDEO/説明書/20240109234709.webp"
+      ]
+    },
+    "メルヘンアドベンチャー コットン100%": {
+      "romaji": "cotton 100%",
+      "pages": [
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222055.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222059.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222106.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222110.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222114.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222119.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222123.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222128.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222132.webp",
+        "E:/サムネ/SFC サムネ/COTTON 100%/説明書/20221022222137.webp"
+      ]
+    },
+    "サイバーナイト": {
+      "romaji": "cyber knight",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114649.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114653.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114657.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114702.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114706.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114711.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114716.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114720.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114725.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114729.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114734.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114738.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114742.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114747.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114751.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114756.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114800.webp",
+        "E:/サムネ/SFC サムネ/Cyber Knight/説明書/20231126114805.webp"
+      ]
+    },
+    "大爆笑!!人生劇場": {
+      "romaji": "daibakushou jinsei gekijou",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185536.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185540.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185545.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185549.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185553.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185557.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185602.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou/説明書/20231027185606.webp"
+      ]
+    },
+    "大爆笑!!人生劇場 ドキドキ青春編": {
+      "romaji": "daibakusyou jinseigekijyou dokidoki seisyun hen",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234852.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234856.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234901.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234906.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234910.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234914.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234920.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234925.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234928.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234932.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234936.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou DokiDoki seisyun hen/説明書/20250520234941.webp"
+      ]
+    },
+    "大爆笑!!人生劇場 大江戸日記": {
+      "romaji": "daibakusyou jinseigekijyou ooedonikki",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/Noimage.webp"
+      ]
+    },
+    "大航海時代2": {
+      "romaji": "daikoukai jidai 2",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1645).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1647).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1648).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1649).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1650).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1651).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1652).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1653).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1655).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1656).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1658).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1659).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1660).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1661).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1662).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1663).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1664).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1665).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1666).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1667).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1668).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1669).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1670).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1671).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1672).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1673).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1674).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1675).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1676).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1677).webp",
+        "E:/サムネ/SFC サムネ/DAIKOUKAI JIDAI 2/説明書/スクリーンショット (1678).webp"
+      ]
+    },
+    "大戦略エキスパート": {
+      "romaji": "daisenraku expert",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233918.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233921.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233925.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233928.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233932.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233935.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233938.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233942.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233945.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233949.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233952.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233956.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622233959.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234002.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234006.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234010.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234014.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234017.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234021.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234026.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234029.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234034.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234037.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234040.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234044.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234048.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234053.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234056.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234101.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234104.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234107.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234111.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234114.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234118.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234122.webp",
+        "E:/サムネ/SFC サムネ/DAISENRAKU Expert/説明書/20260622234125.webp"
+      ]
+    },
+    "ダライアスフォース": {
+      "romaji": "darius force",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DARIUAS FORCE/説明書/Noimage.webp"
+      ]
+    },
+    "ダライアス・ツイン": {
+      "romaji": "darius twin",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1682).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1683).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1684).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1685).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1686).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1687).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1688).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1689).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1690).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1691).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1692).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1693).webp",
+        "E:/サムネ/SFC サムネ/DARIAS TWIN/説明書/スクリーンショット (1694).webp"
+      ]
+    },
+    "ダークハーフ": {
+      "romaji": "dark half",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163126.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163130.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163135.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163138.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163143.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163147.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163150.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163155.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163201.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163205.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163208.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163212.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163216.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163222.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163225.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163232.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163236.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163239.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163243.webp",
+        "E:/サムネ/SFC サムネ/Dark Half/説明書/20260811163247.webp"
+      ]
+    },
+    "ダークロウ Meaning of Death": {
+      "romaji": "dark law",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223314.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223319.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223323.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223327.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223332.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223336.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223340.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223344.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223348.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223353.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223357.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223401.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223406.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223410.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223413.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223418.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223422.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223426.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223430.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223435.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223439.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223443.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223447.webp",
+        "E:/サムネ/SFC サムネ/Dark Law/説明書/20230612223452.webp"
+      ]
+    },
+    "伝説のオウガバトル": {
+      "romaji": "densetsu no ogre battle - the march of the black queen",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233452.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233456.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233502.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233505.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233509.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233513.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233519.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233523.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233528.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233534.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233538.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233542.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233547.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233550.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233555.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233601.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233605.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233611.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233615.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233619.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233624.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233629.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233633.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233638.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233642.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233648.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233651.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233657.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233701.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233705.webp",
+        "E:/サムネ/SFC サムネ/Densetuno OgreBattle/説明書/20251224233710.webp"
+      ]
+    },
+    "だるま道場": {
+      "romaji": "dharma doujou",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Daruma Doujyou/説明書/Noimage.webp"
+      ]
+    },
+    "独立戦争 Liberty or Death": {
+      "romaji": "dokuritu sensou",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233223.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233230.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233234.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233242.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233245.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233251.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233257.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233301.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233307.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233314.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233317.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233323.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233328.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233332.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233338.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233343.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233346.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233350.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233356.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233359.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233406.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233410.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233414.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233420.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233425.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233431.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233437.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233441.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233447.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233453.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233459.webp",
+        "E:/サムネ/SFC サムネ/Dokuritu Sensou/説明書/20250506233505.webp"
+      ]
+    },
+    "ドラえもん3 のび太と時の宝玉": {
+      "romaji": "doraemon 3 - nobita to toki no hougyoku",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Doraemon 3 - Nobita to Toki no Hougyoku/説明書/Noimage.webp"
+      ]
+    },
+    "ドラえもん4 のび太と月の王国": {
+      "romaji": "doraemon 4 - nobita to tsuki no oukoku",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Doraemon 4 - Nobita to Tsuki no Oukoku/説明書/Noimage.webp"
+      ]
+    },
+    "同級生2": {
+      "romaji": "doukyuusei 2",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Doukyusei 2/説明書/Noimage.webp"
+      ]
+    },
+    "ダウン・ザ・ワールド": {
+      "romaji": "down the world - mervil's ambition",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/Noimage.webp"
+      ]
+    },
+    "ダウンタウン熱血べーすぼーる物語 野球で勝負だ!くにおくん": {
+      "romaji": "downtoun nekketu baseball monogatari",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235344.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235350.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235355.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235400.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235406.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235410.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235414.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235418.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235422.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235428.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235433.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235437.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235441.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235445.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235449.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235453.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235457.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235501.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235507.webp",
+        "E:/サムネ/SFC サムネ/DownToun Nekketu Baseball Monogatari/説明書/20260313235513.webp"
+      ]
+    },
+    "ドラゴンボールZ 超武闘伝2": {
+      "romaji": "dragon ball z - super butouden 2",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001903.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001907.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001912.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001916.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001921.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001925.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001929.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001934.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001938.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001942.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001947.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001951.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312001955.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 2/説明書/20240312002000.webp"
+      ]
+    },
+    "ドラゴンボールZ 超武闘伝3": {
+      "romaji": "dragon ball z - super butouden 3",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/Dragon Ball Z - Super Butouden 3.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020315.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020319.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020323.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020327.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020331.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020336.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020340.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020344.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020348.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020353.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020357.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020401.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Butouden 3/説明書/20240311020405.webp"
+      ]
+    },
+    "ドラゴンボールZ 超サイヤ伝説": {
+      "romaji": "dragon ball z - super saiya densetsu",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/Dragon Ball Z - Super Saiya Densetsu.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315232940.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315232944.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315232948.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315232953.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315232957.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233001.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233006.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233010.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233014.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233024.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233028.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233032.webp",
+        "E:/サムネ/SFC サムネ/Dragon Ball Z - Super Saiya Densetsu/説明書/20240315233036.webp"
+      ]
+    },
+    "ドラゴンナイト4": {
+      "romaji": "dragon knight 4",
+      "pages": [
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230459.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230502.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230508.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230513.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230519.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230524.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230529.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230535.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230540.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230546.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230551.webp",
+        "E:/サムネ/SFC サムネ/Dragon Knight 4/説明書/20250531230555.webp"
+      ]
+    },
+    "ドラゴンクエスト1・2": {
+      "romaji": "dragon quest 1&2",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164748.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164753.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164758.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164803.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164808.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164813.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164818.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164823.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164828.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164832.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164837.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164841.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164846.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164851.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164855.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164900.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164903.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164908.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164913.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164923.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027165658.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027165709.webp"
+      ]
+    },
+    "ドラゴンクエスト3 そして伝説へ…": {
+      "romaji": "dragon quest 3",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115845.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115851.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115856.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115901.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115907.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115911.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115916.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115920.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115924.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115929.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115933.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115938.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115944.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115948.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115953.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115958.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120002.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120008.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120013.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120018.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120023.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120029.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120033.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120039.webp"
+      ]
+    },
+    "ドラゴンクエスト5 天空の花嫁": {
+      "romaji": "dragon quest 5",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110451.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110455.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110459.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110504.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110509.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110514.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110518.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110523.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110527.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110531.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110536.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110541.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110545.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110550.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110554.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110559.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110604.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110609.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110613.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110617.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110621.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110626.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110630.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110634.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110639.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110643.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110647.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110652.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110656.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 5/説明書/20240310110701.webp"
+      ]
+    },
+    "ドラゴンクエスト6 幻の大地": {
+      "romaji": "dragon quest 6",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1697).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1698).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1698-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1699).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1699-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1700).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1700-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1702).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1702-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1703).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1703-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1704).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1704-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1705).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1705-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1706).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1706-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1707).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1707-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1708).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1708-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1709).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1709-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1710).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1710-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1711).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1711-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1712).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1712-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1713).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1713-2).webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 6/説明書/スクリーンショット (1714).webp"
       ]
     }
   }
