@@ -4,13 +4,14 @@
     "スーパーファミコン",
     "NINTENDO64",
     "ゲームボーイ",
-    "PCエンジン",
     "メガドライブ",
     "プレイステーション",
-    "セガサターン"
+    "セガサターン",
+    "PCエンジン Huカード"
   ],
   "_closed_consoles": [
-    "ファミリーコンピュータ"
+    "ファミリーコンピュータ",
+    "スーパーファミコン"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -4254,6 +4255,17 @@
         "E:/サムネ/FC サムネ/Fire Emblem/説明書/スクリーンショット (1188).webp",
         "E:/サムネ/FC サムネ/Fire Emblem/説明書/スクリーンショット (1189).webp"
       ]
+    },
+    "バトルロードランナー": {
+      "romaji": "battle lode runner",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/06_1.webp",
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-01.webp",
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-02.webp",
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-03.webp",
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-04.webp",
+        "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-05.webp"
+      ]
     }
   },
   "スーパーファミコン": {
@@ -5592,35 +5604,6 @@
         "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027164923.webp",
         "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027165658.webp",
         "E:/サムネ/SFC サムネ/DRAGON QUEST 1&2/説明書/20251027165709.webp"
-      ]
-    },
-    "ドラゴンクエスト3 そして伝説へ…": {
-      "romaji": "dragon quest 3",
-      "pages": [
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115845.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115851.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115856.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115901.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115907.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115911.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115916.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115920.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115924.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115929.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115933.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115938.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115944.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115948.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115953.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115958.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120002.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120008.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120013.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120018.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120023.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120029.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120033.webp",
-        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120039.webp"
       ]
     },
     "ドラゴンクエスト5 天空の花嫁": {
@@ -12135,6 +12118,528 @@
         "E:/サムネ/SFC サムネ/ZERO4CHAMP RR-Z/説明書/20241026234728.webp",
         "E:/サムネ/SFC サムネ/ZERO4CHAMP RR-Z/説明書/20241026234732.webp",
         "E:/サムネ/SFC サムネ/ZERO4CHAMP RR-Z/説明書/20241026234736.webp"
+      ]
+    },
+    "ドラゴンクエスト3 そして伝説へ…": {
+      "romaji": "dragon quest 3",
+      "pages": [
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115845.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115851.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115856.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115901.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115907.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115911.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115916.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115920.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115924.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115929.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115933.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115938.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115944.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115948.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115953.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114115958.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120002.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120008.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120013.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120018.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120023.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120029.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120033.webp",
+        "E:/サムネ/SFC サムネ/DRAGON QUEST 3/説明書/20241114120039.webp"
+      ]
+    }
+  },
+  "PCエンジン Huカード": {
+    "1943改": {
+      "romaji": "1943 kai",
+      "pages": [
+        "E:/サムネ/PCE サムネ/1941/説明書/20220831101559.webp",
+        "E:/サムネ/PCE サムネ/1941/説明書/20220831101603.webp",
+        "E:/サムネ/PCE サムネ/1941/説明書/20220831101608.webp",
+        "E:/サムネ/PCE サムネ/1941/説明書/20220831101614.webp"
+      ]
+    },
+    "21エモン めざせホテル王": {
+      "romaji": "21 emon - mezase hotel ou!!",
+      "pages": [
+        "E:/サムネ/PCE サムネ/21 Emon - Mezase Hotel Ou!!/説明書/Noimage.webp"
+      ]
+    },
+    "アドベンチャーアイランド": {
+      "romaji": "adventure island",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217224938.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217224942.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217224947.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217224952.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217224957.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217225002.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217225006.webp",
+        "E:/サムネ/PCE サムネ/Adventure Island/説明書/20221217225011.webp"
+      ]
+    },
+    "アフターバーナー2": {
+      "romaji": "after burner ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/After Burner II/説明書/192_187.webp",
+        "E:/サムネ/PCE サムネ/After Burner II/説明書/188_189.webp",
+        "E:/サムネ/PCE サムネ/After Burner II/説明書/スクリーンショット (190).webp",
+        "E:/サムネ/PCE サムネ/After Burner II/説明書/スクリーンショット (191).webp"
+      ]
+    },
+    "暗黒伝説": {
+      "romaji": "ankoku densetsu",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222501.webp",
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222505.webp",
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222509.webp",
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222514.webp",
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222518.webp",
+        "E:/サムネ/PCE サムネ/Ankoku Densetsu/説明書/20221116222522.webp"
+      ]
+    },
+    "青いブリンク": {
+      "romaji": "aoi blink",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221704.webp",
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221709.webp",
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221713.webp",
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221718.webp",
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221722.webp",
+        "E:/サムネ/PCE サムネ/Aoi Blink/説明書/20230815221727.webp"
+      ]
+    },
+    "あっぱれ!ゲートボール": {
+      "romaji": "appare! gateball",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/20240115071642.webp",
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/スクリーンショット (193).webp",
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/スクリーンショット (194).webp",
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/スクリーンショット (195).webp",
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/スクリーンショット (196).webp",
+        "E:/サムネ/PCE サムネ/Appare! Gateball/説明書/スクリーンショット (197).webp"
+      ]
+    },
+    "アームドF": {
+      "romaji": "armed f",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Armed F/説明書/20260707201413.webp",
+        "E:/サムネ/PCE サムネ/Armed F/説明書/20260707201417.webp",
+        "E:/サムネ/PCE サムネ/Armed F/説明書/20260707201421.webp",
+        "E:/サムネ/PCE サムネ/Armed F/説明書/20260707201424.webp"
+      ]
+    },
+    "アトミックロボキッドスペシャル": {
+      "romaji": "atomic robo-kid special",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Atomic Robo-Kid Special/説明書/20221121113044.webp",
+        "E:/サムネ/PCE サムネ/Atomic Robo-Kid Special/説明書/20221121113048.webp",
+        "E:/サムネ/PCE サムネ/Atomic Robo-Kid Special/説明書/20221121113053.webp",
+        "E:/サムネ/PCE サムネ/Atomic Robo-Kid Special/説明書/20221121113057.webp"
+      ]
+    },
+    "バリバリ伝説": {
+      "romaji": "bari bari densetsu",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154912.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154918.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154922.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154926.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154930.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154934.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154937.webp",
+        "E:/サムネ/PCE サムネ/Bari Bari Densetsu/説明書/20220402154942.webp"
+      ]
+    },
+    "バットマン": {
+      "romaji": "batman",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160651.webp",
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160655.webp",
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160700.webp",
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160704.webp",
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160709.webp",
+        "E:/サムネ/PCE サムネ/Batman/説明書/20220815160713.webp"
+      ]
+    },
+    "バルンバ": {
+      "romaji": "barunba",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205204.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205208.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205213.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205217.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205222.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205227.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205232.webp",
+        "E:/サムネ/PCE サムネ/Barunba/説明書/20220825205237.webp"
+      ]
+    },
+    "ビーボール": {
+      "romaji": "be ball",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183206.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183212.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183217.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183221.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183226.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183230.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183235.webp",
+        "E:/サムネ/PCE サムネ/Be Ball/説明書/20221027183239.webp"
+      ]
+    },
+    "弁慶外伝": {
+      "romaji": "benkei gaiden",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124608.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124612.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124617.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124621.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124626.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124630.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124635.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124639.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124643.webp",
+        "E:/サムネ/PCE サムネ/Benkei Gaiden/説明書/20230307124648.webp"
+      ]
+    },
+    "ビックリマンワールド": {
+      "romaji": "bikkuriman world",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bikkuriman World/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Bikkuriman World/説明書/208_209.webp",
+        "E:/サムネ/PCE サムネ/Bikkuriman World/説明書/210_211.webp",
+        "E:/サムネ/PCE サムネ/Bikkuriman World/説明書/212_213.webp"
+      ]
+    },
+    "ブロディア": {
+      "romaji": "blodia",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152215.webp",
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152220.webp",
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152225.webp",
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152230.webp",
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152234.webp",
+        "E:/サムネ/PCE サムネ/Blodia/説明書/20220808152239.webp"
+      ]
+    },
+    "ボンバーマン'94": {
+      "romaji": "bomberman '94",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0001.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0002.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0003.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0004.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0005.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0006.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0007.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0008.webp",
+        "E:/サムネ/PCE サムネ/Bomberman '94/説明書/jp_Bomber94_0009.webp"
+      ]
+    },
+    "冒険男爵ドン サン=ハート編": {
+      "romaji": "bouken danshaku don - the lost sunheart",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221449.webp",
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221454.webp",
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221459.webp",
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221503.webp",
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221507.webp",
+        "E:/サムネ/PCE サムネ/Bouken Danshaku Don - The Lost Sunheart/説明書/20220730221512.webp"
+      ]
+    },
+    "ブレイクイン": {
+      "romaji": "break in",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225334.webp",
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225339.webp",
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225343.webp",
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225348.webp",
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225352.webp",
+        "E:/サムネ/PCE サムネ/Break In/説明書/20230902225357.webp"
+      ]
+    },
+    "バブルガムクラッシュ": {
+      "romaji": "bubblegum crash! - knight sabers 2034",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223125.webp",
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223130.webp",
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223135.webp",
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223139.webp",
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223144.webp",
+        "E:/サムネ/PCE サムネ/Bubblegum Crash! - Knight Sabers 2034/説明書/20220819223148.webp"
+      ]
+    },
+    "ブルファイト リングの覇者": {
+      "romaji": "bull fight - ring no hasha",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000706.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000710.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000715.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000719.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000724.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000729.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000733.webp",
+        "E:/サムネ/PCE サムネ/Bull Fight - Ring no Haja/説明書/20240321000738.webp"
+      ]
+    },
+    "バーニングエンジェル": {
+      "romaji": "burning angels",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Burning Angels/説明書/20220916212905.webp",
+        "E:/サムネ/PCE サムネ/Burning Angels/説明書/20220916212910.webp",
+        "E:/サムネ/PCE サムネ/Burning Angels/説明書/20220916212915.webp",
+        "E:/サムネ/PCE サムネ/Burning Angels/説明書/20220916212920.webp"
+      ]
+    },
+    "サイバークロス": {
+      "romaji": "busou keiji - cyber cross",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231617.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231622.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231627.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231631.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231636.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231641.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231647.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231651.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231656.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231700.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231705.webp",
+        "E:/サムネ/PCE サムネ/Busou Keiji - Cyber Cross/説明書/20220812231709.webp"
+      ]
+    },
+    "チャンピオンレスラー": {
+      "romaji": "champion wrestler",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001730.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001736.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001741.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001745.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001750.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001754.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001759.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001804.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001808.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001812.webp",
+        "E:/サムネ/PCE サムネ/Champion Wrestler/説明書/20250206001818.webp"
+      ]
+    },
+    "ちびまる子ちゃん クイズでピーヒャラ": {
+      "romaji": "chibi maruko-chan - quiz de piihyara",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630233942.webp",
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630233947.webp",
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630233951.webp",
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630233957.webp",
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630234002.webp",
+        "E:/サムネ/PCE サムネ/Chibi Maruko Chan - Quiz de Piihyara/説明書/20220630234006.webp"
+      ]
+    },
+    "逐電屋 藤兵衛": {
+      "romaji": "chikudenya toubei - kubikiri yakata yori",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Chikudenya Toubei - Kubikiri Yakata Yori/説明書/20220330164601.webp",
+        "E:/サムネ/PCE サムネ/Chikudenya Toubei - Kubikiri Yakata Yori/説明書/20220330164606.webp",
+        "E:/サムネ/PCE サムネ/Chikudenya Toubei - Kubikiri Yakata Yori/説明書/20220330164610.webp",
+        "E:/サムネ/PCE サムネ/Chikudenya Toubei - Kubikiri Yakata Yori/説明書/20220330164615.webp"
+      ]
+    },
+    "超絶倫人ベラボーマン": {
+      "romaji": "chouzetsurinjin bravoman",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111332.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111336.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111339.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111343.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111347.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111351.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111357.webp",
+        "E:/サムネ/PCE サムネ/Chouzetsu Rinjin - Bravoman/説明書/20240502111400.webp"
+      ]
+    },
+    "サーカスライド": {
+      "romaji": "circus lido",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Circus Lido/説明書/Noimage.webp"
+      ]
+    },
+    "アーティストツール": {
+      "romaji": "artist tool",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Artist Tool/説明書/Noimage.webp"
+      ]
+    },
+    "シティーハンター": {
+      "romaji": "city hunter",
+      "pages": [
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224516.webp",
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224520.webp",
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224524.webp",
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224527.webp",
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224531.webp",
+        "E:/サムネ/PCE サムネ/City Hunter/説明書/20220405224535.webp"
+      ]
+    },
+    "コラムス": {
+      "romaji": "columns",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213812.webp",
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213817.webp",
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213822.webp",
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213827.webp",
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213831.webp",
+        "E:/サムネ/PCE サムネ/Columns/説明書/20231215213836.webp"
+      ]
+    },
+    "コリューン": {
+      "romaji": "coryoon - child of dragon",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Coryoon - Child of Dragon/説明書/20220928202918.webp",
+        "E:/サムネ/PCE サムネ/Coryoon - Child of Dragon/説明書/20220928202923.webp",
+        "E:/サムネ/PCE サムネ/Coryoon - Child of Dragon/説明書/20220928202928.webp",
+        "E:/サムネ/PCE サムネ/Coryoon - Child of Dragon/説明書/20220928202933.webp"
+      ]
+    },
+    "クロスワイバー": {
+      "romaji": "cross wiber - cyber combat police",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Cross Wiber - Cyber Combat Police/説明書/20230223004853_20230223004857.webp",
+        "E:/サムネ/PCE サムネ/Cross Wiber - Cyber Combat Police/説明書/20230223004925_20230223004931.webp"
+      ]
+    },
+    "サイバードッジ": {
+      "romaji": "cyber dodge",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190558.webp",
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190602.webp",
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190607.webp",
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190616.webp",
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190621.webp",
+        "E:/サムネ/PCE サムネ/Cyber Dodge/説明書/20230115190625.webp"
+      ]
+    },
+    "サイバーナイト": {
+      "romaji": "cyber knight",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111144.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111148.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111153.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111157.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111202.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111207.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111211.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111216.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111221.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111225.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111230.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111234.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111239.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111243.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111248.webp",
+        "E:/サムネ/PCE サムネ/Cyber Knight/説明書/20240305111252.webp"
+      ]
+    },
+    "大地くんクライシス": {
+      "romaji": "daichi-kun crisis - do natural",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Daichi Kun Crisis - Do Natural/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Daichi Kun Crisis - Do Natural/説明書/216_217.webp",
+        "E:/サムネ/PCE サムネ/Daichi Kun Crisis - Do Natural/説明書/218_219.webp",
+        "E:/サムネ/PCE サムネ/Daichi Kun Crisis - Do Natural/説明書/220_221.webp"
+      ]
+    },
+    "大旋風": {
+      "romaji": "daisenpuu",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Dai Senpu/説明書/20231130004200.webp",
+        "E:/サムネ/PCE サムネ/Dai Senpu/説明書/20231130004205.webp",
+        "E:/サムネ/PCE サムネ/Dai Senpu/説明書/20231130004209.webp",
+        "E:/サムネ/PCE サムネ/Dai Senpu/説明書/20231130004214.webp"
+      ]
+    },
+    "ダライアスアルファ": {
+      "romaji": "darius alpha",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Darius Alpha/説明書/Noimage.webp"
+      ]
+    },
+    "ダライアスプラス": {
+      "romaji": "darius plus",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170441.webp",
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170446.webp",
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170450.webp",
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170454.webp",
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170459.webp",
+        "E:/サムネ/PCE サムネ/Darius Plus/説明書/20231004170503.webp"
+      ]
+    },
+    "ディープブルー 海底神話": {
+      "romaji": "deep blue - kaitei shinwa",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Deep Blue - Kaitei Shinwa/説明書/20220404145900.webp",
+        "E:/サムネ/PCE サムネ/Deep Blue - Kaitei Shinwa/説明書/20220404145905.webp",
+        "E:/サムネ/PCE サムネ/Deep Blue - Kaitei Shinwa/説明書/20220404145909.webp",
+        "E:/サムネ/PCE サムネ/Deep Blue - Kaitei Shinwa/説明書/20220404145913.webp"
+      ]
+    },
+    "出たな!!ツインビー": {
+      "romaji": "detana!! twinbee",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230525.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230529.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230533.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230537.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230541.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230544.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20220623230548.webp",
+        "E:/サムネ/PCE サムネ/Detana!! TwinBee/説明書/20240106165933.webp"
+      ]
+    },
+    "デビルクラッシュ": {
+      "romaji": "devil crash - naxat pinball",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Devil Crash/説明書/20240116131018.webp",
+        "E:/サムネ/PCE サムネ/Devil Crash/説明書/20240116131023.webp",
+        "E:/サムネ/PCE サムネ/Devil Crash/説明書/20240116131030.webp"
+      ]
+    },
+    "ダイハード": {
+      "romaji": "die hard",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113056.webp",
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113100.webp",
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113105.webp",
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113110.webp",
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113116.webp",
+        "E:/サムネ/PCE サムネ/Die Hard/説明書/20220712113120.webp"
+      ]
+    },
+    "デジタルチャンプ": {
+      "romaji": "digital champ",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Digital Champ/説明書/20240114185044.webp",
+        "E:/サムネ/PCE サムネ/Digital Champ/説明書/20240114185049.webp",
+        "E:/サムネ/PCE サムネ/Digital Champ/説明書/20240114185053.webp",
+        "E:/サムネ/PCE サムネ/Digital Champ/説明書/20240114185057.webp"
+      ]
+    },
+    "ドンドコドン": {
+      "romaji": "don doko don!",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153742.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153745.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153749.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153753.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153756.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153800.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153803.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153808.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153813.webp",
+        "E:/サムネ/PCE サムネ/Don Doko Don!/説明書/20220517153816.webp"
       ]
     }
   }
