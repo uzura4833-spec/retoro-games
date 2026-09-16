@@ -13937,20 +13937,23 @@
         "E:/サムネ/PCE サムネ/Power League/説明書/20230114231557.webp"
       ]
     },
-    "パワーリーグ5": [
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220553.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220557.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220602.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220606.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220611.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220615.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220619.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220624.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220628.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220633.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220638.webp",
-      "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220643.webp"
-    ],
+    "パワーリーグ5": {
+      "romaji": "power league 5",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220553.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220557.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220602.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220606.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220611.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220615.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220619.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220624.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220628.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220633.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220638.webp",
+        "E:/サムネ/PCE サムネ/Power League 5/説明書/20230605220643.webp"
+      ]
+    },
     "パワーリーグ4": {
       "romaji": "power league 4",
       "pages": [
@@ -14037,6 +14040,298 @@
         "E:/サムネ/PCE サムネ/Power Tennis/説明書/20230130224958.webp",
         "E:/サムネ/PCE サムネ/Power Tennis/説明書/20230130225003.webp",
         "E:/サムネ/PCE サムネ/Power Tennis/説明書/20230130225008.webp"
+      ]
+    },
+    "プロテニス ワールドコート": {
+      "romaji": "pro tennis - world court",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115444.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115448.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115453.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115458.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115502.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115507.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115511.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115516.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115520.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115525.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115530.webp",
+        "E:/サムネ/PCE サムネ/Pro Tennis World Court/説明書/20230912115534.webp"
+      ]
+    },
+    "プロ野球ワールドスタジアム": {
+      "romaji": "pro yakyuu world stadium",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002320.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002325.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002330.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002334.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002339.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002344.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002348.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002354.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002400.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium/説明書/20240409002405.webp"
+      ]
+    },
+    "プロ野球ワールドスタジアム'91": {
+      "romaji": "pro yakyuu world stadium '91",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002320.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002325.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002330.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002334.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002339.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002344.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002348.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002354.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002400.webp",
+        "E:/サムネ/PCE サムネ/Pro Yakyuu World Stadium '91/説明書/20240409002405.webp"
+      ]
+    },
+    "サイコチェイサー": {
+      "romaji": "psycho chaser",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Psycho Chaser/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Psycho Chaser/説明書/3386_3387.webp",
+        "E:/サムネ/PCE サムネ/Psycho Chaser/説明書/3388_3389.webp",
+        "E:/サムネ/PCE サムネ/Psycho Chaser/説明書/3390_3391.webp"
+      ]
+    },
+    "パズルボーイ": {
+      "romaji": "puzzle boy",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426232958.webp",
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426233002.webp",
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426233007.webp",
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426233012.webp",
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426233016.webp",
+        "E:/サムネ/PCE サムネ/Puzzle Boy/説明書/20230426233021.webp"
+      ]
+    },
+    "パズニック": {
+      "romaji": "puzznic",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234545.webp",
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234550.webp",
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234554.webp",
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234558.webp",
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234603.webp",
+        "E:/サムネ/PCE サムネ/Puzznic/説明書/20250114234608.webp"
+      ]
+    },
+    "ラビオレプススペシャル": {
+      "romaji": "rabio lepus special",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230617.webp",
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230622.webp",
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230627.webp",
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230632_20240902230642.webp",
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230647.webp",
+        "E:/サムネ/PCE サムネ/Rabio Lepus Special/説明書/20240902230653.webp"
+      ]
+    },
+    "レーシング魂": {
+      "romaji": "racing damashii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215028.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215033.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215038.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215042.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215046.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215051.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215055.webp",
+        "E:/サムネ/PCE サムネ/Racing Damashii/説明書/20220814215100.webp"
+      ]
+    },
+    "ラスタンサーガ2": {
+      "romaji": "rastan saga ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3393).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3394).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3395).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3396).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3397).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3398).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3399).webp",
+        "E:/サムネ/PCE サムネ/Rastan Saga II/説明書/スクリーンショット (3400).webp"
+      ]
+    },
+    "ロック・オン": {
+      "romaji": "rock-on",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Rock-On/説明書/20220803222902.webp",
+        "E:/サムネ/PCE サムネ/Rock-On/説明書/20220803222906.webp",
+        "E:/サムネ/PCE サムネ/Rock-On/説明書/20220803222911.webp",
+        "E:/サムネ/PCE サムネ/Rock-On/説明書/20220803222916.webp"
+      ]
+    },
+    "R-TYPE1": {
+      "romaji": "r-type i",
+      "pages": [
+        "E:/サムネ/PCE サムネ/R-Type I/説明書/20250315122744.webp",
+        "E:/サムネ/PCE サムネ/R-Type I/説明書/20250315122749.webp",
+        "E:/サムネ/PCE サムネ/R-Type I/説明書/20250315122755.webp",
+        "E:/サムネ/PCE サムネ/R-Type I/説明書/20250315122800.webp"
+      ]
+    },
+    "R-TYPE 2": {
+      "romaji": "r-type ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0001_0002.webp",
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0003_0004.webp",
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0005_0006.webp",
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0007_0000.webp"
+      ]
+    },
+    "S.C.I.": {
+      "romaji": "s.c.i. - special criminal investigation",
+      "pages": [
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222213.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222217.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222222.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222227.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222231.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222237.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222242.webp",
+        "E:/サムネ/PCE サムネ/S.C.I. - Special Criminal Investigation/説明書/20220823222246.webp"
+      ]
+    },
+    "定吉七番 秀吉の黄金": {
+      "romaji": "sadakichi seven - hideyoshi no ougon",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233312.webp",
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233316.webp",
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233322.webp",
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233327.webp",
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233332.webp",
+        "E:/サムネ/PCE サムネ/Sadakichi 7 Series - Hideyoshi no Ougon/説明書/20220718233337.webp"
+      ]
+    },
+    "最後の忍道": {
+      "romaji": "saigo no nindou - ninja spirit",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004529.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004533.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004537.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004541.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004545.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004549.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004553.webp",
+        "E:/サムネ/PCE サムネ/Saigo no Nindou - Ninja Spirit/説明書/20220624004558.webp"
+      ]
+    },
+    "沙羅曼蛇": [
+      "E:/サムネ/PCE サムネ/Salamander/説明書/20220331035119.webp",
+      "E:/サムネ/PCE サムネ/Salamander/説明書/20220331035123.webp",
+      "E:/サムネ/PCE サムネ/Salamander/説明書/20220331035127.webp",
+      "E:/サムネ/PCE サムネ/Salamander/説明書/20220331035130.webp"
+    ],
+    "関ヶ原": {
+      "romaji": "sekigahara",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091807.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091811.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091816.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091820.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091824.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091829.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091833.webp",
+        "E:/サムネ/PCE サムネ/Sekigahara/説明書/20240122091837.webp"
+      ]
+    },
+    "上海": {
+      "romaji": "shanghai",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Shanghai/説明書/20221108203026.webp",
+        "E:/サムネ/PCE サムネ/Shanghai/説明書/20221108203030.webp",
+        "E:/サムネ/PCE サムネ/Shanghai/説明書/20221108203035.webp",
+        "E:/サムネ/PCE サムネ/Shanghai/説明書/20221108203040.webp"
+      ]
+    },
+    "忍 SHINOBI": {
+      "romaji": "shinobi",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235641.webp",
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235645.webp",
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235649.webp",
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235652.webp",
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235656.webp",
+        "E:/サムネ/PCE サムネ/Shinobi/説明書/20240701235659.webp"
+      ]
+    },
+    "死霊戦線": {
+      "romaji": "shiryou sensen - war of the dead",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131703.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131708.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131712.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131717.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131722.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131726.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131730.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131735.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131739.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131744.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131748.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131753.webp",
+        "E:/サムネ/PCE サムネ/Shiryou Sensen - War of the Dead/説明書/20240119131801.webp"
+      ]
+    },
+    "将棋 初段一直線": {
+      "romaji": "shougi shodan icchokusen",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144048.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144051.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144056.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144101.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144104.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144108.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144112.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shodan Icchokusen/説明書/20220422144116.webp"
+      ]
+    },
+    "将棋 初心者無用": {
+      "romaji": "shougi shoshinsha muyou",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220429.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220434.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220439.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220443.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220448.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220453.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220458.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220503.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220507.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220512.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220517.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220522.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220526.webp",
+        "E:/サムネ/PCE サムネ/Shougi Shoshinsha Muyou/説明書/20221211220530.webp"
+      ]
+    },
+    "サイレントデバッガーズ": {
+      "romaji": "silent debuggers",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181401.webp",
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181406.webp",
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181410.webp",
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181414.webp",
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181419.webp",
+        "E:/サムネ/PCE サムネ/Silent Debuggers/説明書/20221109181424.webp"
+      ]
+    },
+    "シンドバッド 地底の大魔宮": {
+      "romaji": "sindibad - chitei no daimakyuu",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145743.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145747.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145750.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145754.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145758.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145801.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145805.webp",
+        "E:/サムネ/PCE サムネ/Sindibad Chitei no Dai Makyuu/説明書/20220521145809.webp"
       ]
     }
   }
