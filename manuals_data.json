@@ -2,16 +2,18 @@
   "_consoles": [
     "ファミリーコンピュータ",
     "スーパーファミコン",
-    "NINTENDO64",
-    "ゲームボーイ",
     "メガドライブ",
     "プレイステーション",
     "セガサターン",
-    "PCエンジン Huカード"
+    "PCエンジン Huカード",
+    "PCエンジン CD-ROM2",
+    "PCエンジン SuperCD-ROM2"
   ],
   "_closed_consoles": [
     "ファミリーコンピュータ",
-    "スーパーファミコン"
+    "スーパーファミコン",
+    "PCエンジン Huカード",
+    "PCエンジン CD-ROM2"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -14836,9 +14838,7 @@
         "E:/サムネ/PCE サムネ/Xevious - Fardraut Densetsu/説明書/3497_3498.webp",
         "E:/サムネ/PCE サムネ/Xevious - Fardraut Densetsu/説明書/3499_3500.webp"
       ]
-    }
-  },
-  "セガサターン": {
+    },
     "妖怪道中記": {
       "romaji": "youkai douchuuki",
       "pages": [
@@ -14848,6 +14848,220 @@
         "E:/サムネ/PCE サムネ/Youkai Douchuuki/説明書/0005_0006.webp",
         "E:/サムネ/PCE サムネ/Youkai Douchuuki/説明書/0007_0008.webp",
         "E:/サムネ/PCE サムネ/Youkai Douchuuki/説明書/0009_0010.webp"
+      ]
+    },
+    "遊々人生": {
+      "romaji": "you-you jinsei",
+      "pages": [
+        "E:/サムネ/PCE サムネ/You-You Jinsei/説明書/20240527232042.webp",
+        "E:/サムネ/PCE サムネ/You-You Jinsei/説明書/20240527232046.webp",
+        "E:/サムネ/PCE サムネ/You-You Jinsei/説明書/20240527232049.webp",
+        "E:/サムネ/PCE サムネ/You-You Jinsei/説明書/20240527232053.webp"
+      ]
+    },
+    "ゼロヨンチャンプ": {
+      "romaji": "zero4 champ",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212611.webp",
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212615.webp",
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212619.webp",
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212625.webp",
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212630.webp",
+        "E:/サムネ/PCE サムネ/Zero 4 Champ/説明書/20250810212635.webp"
+      ]
+    },
+    "ジパング": {
+      "romaji": "zipang",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181653.webp",
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181657.webp",
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181701.webp",
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181705.webp",
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181709.webp",
+        "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181713.webp"
+      ]
+    }
+  },
+  "PCエンジン CD-ROM2": {
+    "コブラ 黒竜王の伝説": {
+      "romaji": "cobra - kokuryuuou no densetsu",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Cobra - Kokuryuuou no Densetsu/説明書/スクリーンショット (3508).webp",
+        "E:/サムネ/PCE サムネ/Cobra - Kokuryuuou no Densetsu/説明書/スクリーンショット (3509).webp",
+        "E:/サムネ/PCE サムネ/Cobra - Kokuryuuou no Densetsu/説明書/スクリーンショット (3510).webp",
+        "E:/サムネ/PCE サムネ/Cobra - Kokuryuuou no Densetsu/説明書/スクリーンショット (3511).webp",
+        "E:/サムネ/PCE サムネ/Cobra - Kokuryuuou no Densetsu/説明書/スクリーンショット (3512).webp"
+      ]
+    },
+    "コブラ2 伝説の男": {
+      "romaji": "cobra ii - densetsu no otoko",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Cobra II - Densetsu no Otoko/説明書/Noimage.webp"
+      ]
+    },
+    "ダウンロード2": {
+      "romaji": "download ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Download II/説明書/スクリーンショット (3503).webp",
+        "E:/サムネ/PCE サムネ/Download II/説明書/スクリーンショット (3505).webp",
+        "E:/サムネ/PCE サムネ/Download II/説明書/スクリーンショット (3506).webp",
+        "E:/サムネ/PCE サムネ/Download II/説明書/スクリーンショット (3507).webp"
+      ]
+    },
+    "ファイティングストリート": {
+      "romaji": "fighting street",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Fighting Street/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Fighting Street/説明書/3514_3515.webp",
+        "E:/サムネ/PCE サムネ/Fighting Street/説明書/3517_3518.webp",
+        "E:/サムネ/PCE サムネ/Fighting Street/説明書/3520_3521.webp"
+      ]
+    },
+    "ゴールデンアックス": {
+      "romaji": "golden axe",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3523).webp",
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3525).webp",
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3526).webp",
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3527).webp",
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3528).webp",
+        "E:/サムネ/PCE サムネ/Golden Axe/説明書/スクリーンショット (3529).webp"
+      ]
+    },
+    "J.B.ハロルドシリーズ マーダークラブ": {
+      "romaji": "j. b. harold murder club",
+      "pages": [
+        "E:/サムネ/PCE サムネ/J. B. Harold Murder Club/説明書/Noimage.webp"
+      ]
+    },
+    "獣王記": {
+      "romaji": "juuouki",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Juuouki(CD-rom)/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Juuouki(CD-rom)/説明書/3531_3532.webp",
+        "E:/サムネ/PCE サムネ/Juuouki(CD-rom)/説明書/3533_3534.webp",
+        "E:/サムネ/PCE サムネ/Juuouki(CD-rom)/説明書/3535_3536.webp"
+      ]
+    },
+    "ロードス島戦記": {
+      "romaji": "lodoss tou senki",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3539_3540.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3541_3542.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3543_3544.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3545_3546.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3547_3548.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3549_3550.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3551_3552.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3553_3554.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3555_3556.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3557_3558.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3559_3560.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3561_3562.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3563_3564.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3565_3567.webp",
+        "E:/サムネ/PCE サムネ/Lodoss Tou Senki/説明書/3568_3569.webp"
+      ]
+    },
+    "マジカルサウルスツアー": {
+      "romaji": "magical saurus tour",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Magical Saurus Tour/説明書/Noimage.webp"
+      ]
+    },
+    "みつばち学園": {
+      "romaji": "mitsubachi gakuen",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Mitsubachi Gakuen/説明書/Noimage.webp"
+      ]
+    },
+    "ワンダーボーイ3 モンスター・レアー": {
+      "romaji": "monster lair - wonderboy iii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Monster Lair - Wonderboy III/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Monster Lair - Wonderboy III/説明書/3572_3573.webp"
+      ]
+    },
+    "レインボーアイランド": {
+      "romaji": "rainbow islands",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/3576_3577.webp",
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/3578_3579.webp",
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/3580_3581.webp",
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/3582_3583.webp",
+        "E:/サムネ/PCE サムネ/Rainbow Islands/説明書/3584_3585.webp"
+      ]
+    },
+    "シャーロック・ホームズの探偵講座": {
+      "romaji": "sherlock holmes no tantei kouza",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Sherlock Holmes no Tantei Kouza/説明書/Noimage.webp"
+      ]
+    },
+    "サイドアーム・スペシャル": {
+      "romaji": "sidearms special",
+      "pages": [
+        "E:/サムネ/PCE サムネ/SideArms Special/説明書/スクリーンショット (3587).webp",
+        "E:/サムネ/PCE サムネ/SideArms Special/説明書/スクリーンショット (3588).webp",
+        "E:/サムネ/PCE サムネ/SideArms Special/説明書/スクリーンショット (3589).webp",
+        "E:/サムネ/PCE サムネ/SideArms Special/説明書/9999.webp"
+      ]
+    },
+    "スーパーダライアス": {
+      "romaji": "super darius",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Super Darius/説明書/3596_3592.webp",
+        "E:/サムネ/PCE サムネ/Super Darius/説明書/スクリーンショット (3593).webp",
+        "E:/サムネ/PCE サムネ/Super Darius/説明書/スクリーンショット (3594).webp",
+        "E:/サムネ/PCE サムネ/Super Darius/説明書/スクリーンショット (3595).webp"
+      ]
+    },
+    "うる星やつら STAY WITH YOU": {
+      "romaji": "urusei yatsura - stay with you",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/3598_3599.webp",
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/3600_3601.webp",
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/3602_3603.webp",
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/3604_3605.webp",
+        "E:/サムネ/PCE サムネ/Urusei Yatsura - Stay with You/説明書/3606_3607.webp"
+      ]
+    },
+    "ヴァリス2": {
+      "romaji": "valis ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0001_0002.webp",
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0003_0004.webp",
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0005_0006.webp",
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0007_0008.webp",
+        "E:/サムネ/PCE サムネ/Valis II/説明書/0009_0010.webp"
+      ]
+    },
+    "イース1・2": {
+      "romaji": "ys i & ii",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/０.webp",
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/スクリーンショット (3610).webp",
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/スクリーンショット (3611).webp",
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/スクリーンショット (3612).webp",
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/スクリーンショット (3613).webp",
+        "E:/サムネ/PCE サムネ/Ys I & II/説明書/スクリーンショット (3614).webp"
+      ]
+    },
+    "イース3": {
+      "romaji": "ys iii - wanderers from ys",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0001_0002.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0003_0004.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0005_0006.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0007_0008.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0009_0010.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0011_0012.webp",
+        "E:/サムネ/PCE サムネ/Ys III - Wanderers from Ys/説明書/0013_0014.webp"
       ]
     }
   }
