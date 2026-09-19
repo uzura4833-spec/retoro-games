@@ -7,7 +7,8 @@
     "セガサターン",
     "PCエンジン Huカード",
     "PCエンジン CD-ROM2",
-    "PCエンジン SuperCD-ROM2"
+    "PCエンジン SuperCD-ROM2",
+    "PCエンジン SuperGraphics"
   ],
   "_closed_consoles": [
     "ファミリーコンピュータ",
@@ -12743,7 +12744,7 @@
       ]
     },
     "F1サーカス'91": {
-      "romaji": "f1 circus '92 - the speed of sound",
+      "romaji": "f1 circus '91 - world championship",
       "pages": [
         "E:/サムネ/PCE サムネ/F1 Circus '91 - World Championship/説明書/20251201234349.webp",
         "E:/サムネ/PCE サムネ/F1 Circus '91 - World Championship/説明書/20251201234354.webp",
@@ -12764,21 +12765,6 @@
         "E:/サムネ/PCE サムネ/F1 Circus/説明書/20250110225859.webp",
         "E:/サムネ/PCE サムネ/F1 Circus/説明書/20250110225905.webp",
         "E:/サムネ/PCE サムネ/F1 Circus/説明書/20250110225911.webp"
-      ]
-    },
-    "F1サーカス'92": {
-      "romaji": "f1 circus '92 - the speed of sound",
-      "pages": [
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104747.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104751.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104756.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104800.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104806.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104811.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104815.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104819.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104824.webp",
-        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104828.webp"
       ]
     },
     "F-1ドリーム": {
@@ -14880,6 +14866,21 @@
         "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181709.webp",
         "E:/サムネ/PCE サムネ/Zipang/説明書/20220407181713.webp"
       ]
+    },
+    "F1サーカス'92": {
+      "romaji": "f1 circus '92 - the speed of sound",
+      "pages": [
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104747.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104751.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104756.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104800.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104806.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104811.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104815.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104819.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104824.webp",
+        "E:/サムネ/PCE サムネ/F1 Circus '92 - The Speed of Sound/説明書/20251218104828.webp"
+      ]
     }
   },
   "PCエンジン CD-ROM2": {
@@ -15197,6 +15198,128 @@
         "E:/サムネ/PCE サムネ/Tengai Makyou - Fuuun Kabuki Den/説明書/スクリーンショット (3721).webp",
         "E:/サムネ/PCE サムネ/Tengai Makyou - Fuuun Kabuki Den/説明書/スクリーンショット (3722).webp",
         "E:/サムネ/PCE サムネ/Tengai Makyou - Fuuun Kabuki Den/説明書/スクリーンショット (3723).webp"
+      ]
+    },
+    "天外魔境2 卍MARU": {
+      "romaji": "tengai makyou ii - manji maru",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0001.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0002.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0003.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0004.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0005.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0006.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0007.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0008.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0009.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0010.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0011.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0012.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0013.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0014.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0015.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0016.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0017.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0018.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0019.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0020.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0021.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0022.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0024.webp",
+        "E:/サムネ/PCE サムネ/Tengai Makyou II - Manji Maru/説明書/jp_Tengai_0025.webp"
+      ]
+    },
+    "ときめきメモリアル": {
+      "romaji": "tokimeki memorial",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3725).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3726).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3727).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3728).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3729).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3730).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3731).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3732).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3733).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3734).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3735).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3737).webp",
+        "E:/サムネ/PCE サムネ/Tokimeki Memorial/説明書/スクリーンショット (3738).webp"
+      ]
+    },
+    "イース4 ザ・ドーン・オブ・イース": {
+      "romaji": "ys iv - the dawn of ys",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0001_0002.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0003_0004.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0005_0006.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0007_0008.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0009_0010.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0011_0012.webp",
+        "E:/サムネ/PCE サムネ/Ys IV - The Dawn of Ys/説明書/0013_0014.webp"
+      ]
+    }
+  },
+  "PCエンジン SuperGraphics": {
+    "魔動王グランゾート": {
+      "romaji": "madou king granzort",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220426.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220431.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220438.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220442.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220446.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220450.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220455.webp",
+        "E:/サムネ/PCE サムネ/Madouou Granzort/説明書を開く/20220417220459.webp"
+      ]
+    },
+    "1941 カウンターアタック": {
+      "romaji": "1941 - counter attack",
+      "pages": [
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213039.webp",
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213045.webp",
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213050.webp",
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213055.webp",
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213100.webp",
+        "E:/サムネ/PCE サムネ/1941 - Counter Attack/説明書/20220824213105.webp"
+      ]
+    },
+    "オルディネス": {
+      "romaji": "aldynes - the misson code for rage crisis",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/0.webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3740).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3741).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3742).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3743).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3744).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3745).webp",
+        "E:/サムネ/PCE サムネ/Aldynes/説明書を開く/スクリーンショット (3746).webp"
+      ]
+    },
+    "バトルエース": {
+      "romaji": "battle ace",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132714.webp",
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132718.webp",
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132722.webp",
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132726.webp",
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132730.webp",
+        "E:/サムネ/PCE サムネ/Battle Ace/説明書を開く/20220606132734.webp"
+      ]
+    },
+    "大魔界村": {
+      "romaji": "daimakaimura",
+      "pages": [
+        "E:/サムネ/PCE サムネ/Daimakaimura/説明書を開く/3749_3750.webp",
+        "E:/サムネ/PCE サムネ/Daimakaimura/説明書を開く/スクリーンショット (3750).webp",
+        "E:/サムネ/PCE サムネ/Daimakaimura/説明書を開く/スクリーンショット (3751).webp",
+        "E:/サムネ/PCE サムネ/Daimakaimura/説明書を開く/スクリーンショット (3752).webp",
+        "E:/サムネ/PCE サムネ/Daimakaimura/説明書を開く/3752_3753.webp"
       ]
     }
   }
