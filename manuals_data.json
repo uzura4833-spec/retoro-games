@@ -8,7 +8,8 @@
     "PCエンジン Huカード",
     "PCエンジン CD-ROM2",
     "PCエンジン SuperCD-ROM2",
-    "PCエンジン SuperGraphics"
+    "PCエンジン SuperGraphics",
+    "プレイステーション２"
   ],
   "_closed_consoles": [
     "ファミリーコンピュータ",
@@ -16,7 +17,8 @@
     "PCエンジン Huカード",
     "PCエンジン CD-ROM2",
     "PCエンジン SuperCD-ROM2",
-    "PCエンジン SuperGraphics"
+    "PCエンジン SuperGraphics",
+    "プレイステーション"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -17001,6 +17003,209 @@
         "E:/サムネ/PS サムネ/Yuuyami Doori Tankentai/説明書/Yuuyami015-1024x509.webp",
         "E:/サムネ/PS サムネ/Yuuyami Doori Tankentai/説明書/Yuuyami016-1024x509.webp",
         "E:/サムネ/PS サムネ/Yuuyami Doori Tankentai/説明書/Yuuyami017-1024x674.webp"
+      ]
+    }
+  },
+  "プレイステーション２": {
+    "デビルメイクライ": {
+      "romaji": "devil may cry",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0001_0002.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0003_0004.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0005_0006.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0007_0008.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0009_0010.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0011_0012.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0013_0014.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0015_0016.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0017_0018.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0019_0020.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0021_0022.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0023_0024.webp",
+        "E:/サムネ/PS2 サムネ/Devil May Cry/説明書/0025_0026.webp"
+      ]
+    },
+    "フロントミッション5 スカーズ・オブ・ザ・ウォー": {
+      "romaji": "front mission5",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0001_0002.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0003_0004.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0005_0006.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0007_0008.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0009_0010.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0011_0012.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0013_0014.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0015_0016.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0017_0018.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0019_0020.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0021_0022.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0023_0024.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0025_0026.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0027_0028.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0029_0030.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0031_0032.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0033_0034.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0035_0036.webp",
+        "E:/サムネ/PS2 サムネ/FRONT MISSION5/説明書/0037_0038.webp"
+      ]
+    },
+    "アヌビス ゾーン・オブ・ジ・エンダーズ": {
+      "romaji": "anubis-zone of the enders",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923092915.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923093044.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923093204.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923093355.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923093712.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923093912.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923094757.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923094939.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095112.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095225.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095321.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095438.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095535.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095628.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095727.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095817.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923095908.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100006.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100110.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100205.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100257.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100348.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100442.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100539.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100632.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100726.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100833.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923100933.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923101031.webp",
+        "E:/サムネ/PS2 サムネ/ANUBIS-ZONE OF THE ENDERS/説明書/IMG_20260923101141.webp"
+      ]
+    },
+    "大都技研公式パチスロシミュレーター 吉宗": {
+      "romaji": "daitou giken  pachisuro simulator yoshimune",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110126.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110222.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110312.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110411.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110459.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110613.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110659.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110748.webp",
+        "E:/サムネ/PS2 サムネ/Daitou Giken  Pachisuro Simulator Yoshimune/説明書/IMG_20260923110839.webp"
+      ]
+    },
+    "ドラゴンクエスト5 天空の花嫁": {
+      "romaji": "dragon quest v -tenkuu no hanayome-",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923111918.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112003.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112123.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112355.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112457.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112608.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112659.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112748.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112836.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923112935.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923113024.webp"
+      ]
+    },
+    "ファイナルファンタジー10": {
+      "romaji": "final fantasy x",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/Noimage.webp"
+      ]
+    },
+    "ファイナルファンタジー10-2": {
+      "romaji": "final fantasy x2",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/Noimage.webp"
+      ]
+    },
+    "ドラゴンクエスト8 空と海と大地と呪われし姫君": {
+      "romaji": "dragon quest viii -sora to umi to daiti to norowaresi himegimi-",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115230.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115322.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115445.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115536.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115624.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115727.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115816.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923115911.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120002.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120047.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120147.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120238.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120328.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120821.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923120917.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923121034.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124519.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124616.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124715.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124815.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124906.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923124959.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923125049.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923125144.webp",
+        "E:/サムネ/PS2 サムネ/DRAGON QUEST VIII -sora to umi to daiti to norowaresi himegimi-/説明書/IMG_20260923130225.webp"
+      ]
+    },
+    "実戦パチスロ必勝法! 北斗の拳": {
+      "romaji": "jissen pachisuro hisshouhou! hokuto no ken",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/Noimage.webp"
+      ]
+    },
+    "ファイナルファンタジー12": {
+      "romaji": "final fantasy ⅻ",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923130225.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131216.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131311.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131421.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131524.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131711.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131805.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131859.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131958.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132055.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132146.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132245.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132355.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132445.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132537.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132630.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132728.webp"
+      ]
+    },
+    "幻想水滸伝Ⅲ": {
+      "romaji": "gensou suikoden iii",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923144509.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145036.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145216.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145311.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145407.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145456.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145546.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145633.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145718.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145806.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145852.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145943.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923150029.webp",
+        "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923150127.webp"
       ]
     }
   }
