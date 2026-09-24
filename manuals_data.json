@@ -14,10 +14,12 @@
   "_closed_consoles": [
     "ファミリーコンピュータ",
     "スーパーファミコン",
-    "PCエンジン Huカード",
     "PCエンジン SuperCD-ROM2",
     "PCエンジン SuperGraphics",
-    "プレイステーション"
+    "プレイステーション",
+    "PCエンジン Huカード",
+    "PCエンジン CD-ROM2",
+    "プレイステーション２"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -14888,22 +14890,14 @@
     "オーダイン": {
       "romaji": "ordyne",
       "pages": [
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3880).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3881).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3882).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3883).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3884).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3885).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3886).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3887).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3888).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3889).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3890).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3891).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3892).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3893).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3894).webp",
-        "E:/サムネ/PCE サムネ/Ordyne/説明書/スクリーンショット (3895).webp"
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3881_3882.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3883_3884.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3885_3886.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3887_3888.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3889_3890.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3891_3892.webp",
+        "E:/サムネ/PCE サムネ/Ordyne/説明書/3893_3894.webp"
       ]
     }
   },
@@ -17269,6 +17263,135 @@
         "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923145943.webp",
         "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923150029.webp",
         "E:/サムネ/PS2 サムネ/Gensou Suikoden III/説明書/IMG_20260923150127.webp"
+      ]
+    },
+    "キングダムハーツ": {
+      "romaji": "kingdum hearts",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924193915.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194159.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194248.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194350.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194443.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194538.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194645.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194744.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194839.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924194947.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924195053.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924195145.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924195234.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS/説明書/IMG_20260924195317.webp"
+      ]
+    },
+    "キングダムハーツ2": {
+      "romaji": "kingdum hearts ii",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924200058.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924200200.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924200253.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204241.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204350.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204441.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204538.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204706.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204814.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204905.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924204957.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924205047.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924205137.webp",
+        "E:/サムネ/PS2 サムネ/KINGDUM HEARTS II/説明書/IMG_20260924205224.webp"
+      ]
+    },
+    "レガイア デュエルサーガ": {
+      "romaji": "legaia duelsaga",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/Noimage.webp"
+      ]
+    },
+    "メタルギアソリッド2 サンズ・オブ・リバティ": {
+      "romaji": "metal gear solid 2 -sons of liberty-",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924213451.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924213714.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924213844.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214108.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214227.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214341.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214440.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214534.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214633.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214735.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214838.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924214945.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215106.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215224.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215320.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215422.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215526.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215618.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215717.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215835.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924215921.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220011.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220057.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220145.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220245.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220515.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220614.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220710.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220811.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220902.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924220953.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221042.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221134.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221402.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221523.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221629.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_20260924221732.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 2 -SONS OF LIBERTY-/説明書/IMG_300000000.webp"
+      ]
+    },
+    "メタルギアソリッド3 スネークイーター": {
+      "romaji": "metal gear solid 3 -snake eater-",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224023.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224155.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224301.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224419.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224511.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224644.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224734.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924224828.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225105.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225201.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225250.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225345.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225435.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225525.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225634.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225723.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225819.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924225912.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924230003.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924230050.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924230820.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924230907.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924230958.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231051.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231141.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231236.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231323.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231433.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231524.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231617.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231710.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231820.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924231908.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232026.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232117.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232241.webp",
+        "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232334.webp"
       ]
     }
   }
