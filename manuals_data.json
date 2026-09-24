@@ -18,8 +18,7 @@
     "PCエンジン SuperGraphics",
     "プレイステーション",
     "PCエンジン Huカード",
-    "PCエンジン CD-ROM2",
-    "プレイステーション２"
+    "PCエンジン CD-ROM2"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -17392,6 +17391,44 @@
         "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232117.webp",
         "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232241.webp",
         "E:/サムネ/PS2 サムネ/METAL GEAR SOLID 3 -SNAKE EATER-/説明書/IMG_20260924232334.webp"
+      ]
+    },
+    "鬼武者2": {
+      "romaji": "onimusya 2",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/０.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/2.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/3.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/4.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/5.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/6.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/7.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/8.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/9.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/10.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/11.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/12.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/13.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/14.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/15.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya 2/説明書/16.webp"
+      ]
+    },
+    "鬼武者": {
+      "romaji": "onimusya",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001046.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001321.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001418.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001534.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001607.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001703.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001754.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001841.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925001952.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925002039.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925002133.webp",
+        "E:/サムネ/PS2 サムネ/Onimusya/説明書/IMG_20260925002229.webp"
       ]
     }
   }
