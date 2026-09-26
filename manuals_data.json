@@ -9,7 +9,8 @@
     "PCエンジン CD-ROM2",
     "PCエンジン SuperCD-ROM2",
     "PCエンジン SuperGraphics",
-    "プレイステーション２"
+    "プレイステーション２",
+    "PlayStation Portable"
   ],
   "_closed_consoles": [
     "ファミリーコンピュータ",
@@ -17771,6 +17772,38 @@
         "E:/サムネ/PS2 サムネ/WILD ARMS - the 4th Detonator -/説明書/IMG_20260926122001.webp",
         "E:/サムネ/PS2 サムネ/WILD ARMS - the 4th Detonator -/説明書/IMG_20260926122049.webp",
         "E:/サムネ/PS2 サムネ/WILD ARMS - the 4th Detonator -/説明書/IMG_20260926122204.webp"
+      ]
+    }
+  },
+  "PlayStation Portable": {
+    "最果てのイマ PORTABLE": {
+      "romaji": "saihate no ima portable",
+      "pages": [
+        "E:/サムネ/PSP サムネ/Saihate no Ima Portable(v1.01)/説明書/Noimage.webp"
+      ]
+    },
+    "家族計画": {
+      "romaji": "kazoku keikaku",
+      "pages": [
+        "E:/サムネ/PSP サムネ/Kazoku Keikaku/説明書/Noimage.webp"
+      ]
+    },
+    "CROSS†CHANNEL": {
+      "romaji": "cross channel - to all people",
+      "pages": [
+        "E:/サムネ/PSP サムネ/Cross Channel - To All People/説明書/Noimage.webp"
+      ]
+    },
+    "真・三國無双 MULTI RAID ULJM": {
+      "romaji": "shin sanngokumusou multi raid",
+      "pages": [
+        "E:/サムネ/PSP サムネ/Shin Sanngokumusou MULTI RAID/説明書/Noimage.webp"
+      ]
+    },
+    "モンスターハンターポータブル 2nd G": {
+      "romaji": "monster hunter portable 2nd g",
+      "pages": [
+        "E:/サムネ/PSP サムネ/Monster Hunter Portable 2nd G/説明書/Noimage.webp"
       ]
     }
   }
