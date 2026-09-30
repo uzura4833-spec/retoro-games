@@ -13,12 +13,12 @@
     "PlayStation Portable"
   ],
   "_closed_consoles": [
-    "ファミリーコンピュータ",
     "PCエンジン SuperCD-ROM2",
     "PCエンジン Huカード",
     "PCエンジン CD-ROM2",
     "プレイステーション",
-    "プレイステーション２"
+    "プレイステーション２",
+    "スーパーファミコン"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -4272,6 +4272,49 @@
         "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-03.webp",
         "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-04.webp",
         "E:/サムネ/PCE サムネ/Battle Lode Runner/説明書/manual-05.webp"
+      ]
+    },
+    "ギャラクシアン": {
+      "romaji": "galaxian",
+      "pages": [
+        "E:/サムネ/FC サムネ/Galaxian/説明書/Galaxian [NGX-4500](FC)(JP) -Manual(600DPI)_0000.webp",
+        "E:/サムネ/FC サムネ/Galaxian/説明書/Galaxian [NGX-4500](FC)(JP) -Manual(600DPI)_0001.webp"
+      ]
+    },
+    "パックマン": {
+      "romaji": "pac-man",
+      "pages": [
+        "E:/サムネ/FC サムネ/Pac-Man/説明書/Pac-Man [NPM-4500](FC)(JP) -Manual(600DPI)_0000.webp",
+        "E:/サムネ/FC サムネ/Pac-Man/説明書/Pac-Man [NPM-4500](FC)(JP) -Manual(600DPI)_0001.webp"
+      ]
+    },
+    "バトルシティー": {
+      "romaji": "battle city",
+      "pages": [
+        "E:/サムネ/FC サムネ/Battle City/説明書/0.webp",
+        "E:/サムネ/FC サムネ/Battle City/説明書/１_２.webp",
+        "E:/サムネ/FC サムネ/Battle City/説明書/３_４.webp",
+        "E:/サムネ/FC サムネ/Battle City/説明書/５_６.webp",
+        "E:/サムネ/FC サムネ/Battle City/説明書/７_８.webp",
+        "E:/サムネ/FC サムネ/Battle City/説明書/９_１０.webp"
+      ]
+    },
+    "ワープマン": {
+      "romaji": "warpman",
+      "pages": [
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233019.webp",
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233022.webp",
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233025.webp",
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233029.webp",
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233032.webp",
+        "E:/サムネ/FC サムネ/Warpman/説明書/20230809233035.webp"
+      ]
+    },
+    "マッピー": {
+      "romaji": "mappy",
+      "pages": [
+        "E:/サムネ/FC サムネ/Mappy/説明書/0003_0004.webp",
+        "E:/サムネ/FC サムネ/Mappy/説明書/0008_0008.webp"
       ]
     }
   },
@@ -18121,6 +18164,39 @@
         "E:/サムネ/PSP サムネ/makaisenki  Disgaea2 PORTABLE/説明書/IMG_20260929203913.webp",
         "E:/サムネ/PSP サムネ/makaisenki  Disgaea2 PORTABLE/説明書/IMG_20260929204004.webp",
         "E:/サムネ/PSP サムネ/makaisenki  Disgaea2 PORTABLE/説明書/IMG_20260929204058.webp"
+      ]
+    },
+    "ペルソナ２ 罪": {
+      "romaji": "persona2 tumi",
+      "pages": [
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930184004.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930184106.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/BCO.0ee81ce0-105a-4f5a-9ee1-bb15c1894bb3.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/BCO.566502ba-5372-44b7-9415-f18e0aba34d4.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/BCO.38c1f9b3-041c-4465-8e5a-55c0542de9d9.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930184728.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930184837.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930184932.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185054.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185146.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185240.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185332.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185425.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185517.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185607.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185651.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185746.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185832.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930185920.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190016.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190113.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190205.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930202657.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190255.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190350.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/IMG_20260930190441.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/BCO.a523059c-e87c-4d5d-93ab-5d7a3ef5b7ac.webp",
+        "E:/サムネ/PSP サムネ/PERSONA2 TUMI/説明書/BCO.e79a5d66-8565-4239-b577-2db8e2a749b9.webp"
       ]
     }
   }
