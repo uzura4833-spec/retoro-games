@@ -17,11 +17,13 @@
     "PCエンジン SuperCD-ROM2",
     "PCエンジン Huカード",
     "PCエンジン CD-ROM2",
-    "プレイステーション",
-    "スーパーファミコン",
-    "ファミリーコンピュータ",
     "PCエンジン SuperGraphics",
-    "プレイステーション２"
+    "ファミリーコンピュータ",
+    "スーパーファミコン",
+    "ファミリーコンピュータ ディスクシステム",
+    "プレイステーション",
+    "PlayStation Portable",
+    "セガサターン"
   ],
   "ファミリーコンピュータ": {
     "悪魔城伝説": {
@@ -3954,7 +3956,8 @@
     "不動明王伝": {
       "romaji": "fudou myouou den",
       "pages": [
-        "E:/サムネ/FC サムネ/Fudou Myouou Den/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Fudou Myouou Den/説明書/スクリーンショット (3942).webp",
+        "E:/サムネ/FC サムネ/Fudou Myouou Den/説明書/スクリーンショット (3943).webp"
       ]
     },
     "ギャラガ": {
@@ -3967,13 +3970,51 @@
     "がんばれゴエモン2": {
       "romaji": "ganbare goemon 2",
       "pages": [
-        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3924).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3925).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3926).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3927).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3928).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3929).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3930).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3931).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3932).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3933).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3934).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3935).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3936).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3937).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3938).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3939).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3940).webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon 2/説明書/スクリーンショット (3941).webp"
       ]
     },
     "がんばれゴエモン外伝2 天下の財宝": {
       "romaji": "ganbare goemon gaiden 2",
       "pages": [
-        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0002_0001.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0004_0003.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0006_0005.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0008_0007.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0010_0009.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0012_0011.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0014_0013.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0016_0015.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0018_0017.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0020_0019.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0022_0021.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0024_0023.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0026_0025.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0028_0027.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0030_0029.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0031_0032.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0034_0033.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0036_0035.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0038_0037.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0040_0039.webp",
+        "E:/サムネ/FC サムネ/Ganbare Goemon Gaiden 2-Tenka no Zaihou/説明書/0042_0041.webp"
       ]
     },
     "デビルワールド": {
@@ -4067,7 +4108,14 @@
     "怒2 DOGOSOKEN": {
       "romaji": "ikari ii - dogosoken",
       "pages": [
-        "E:/サムネ/FC サムネ/Ikari II/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Ikari II/説明書/0.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/1.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/2_3.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/4_5.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/6_7.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/8_9.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/10_11.webp",
+        "E:/サムネ/FC サムネ/Ikari II/説明書/12_13.webp"
       ]
     },
     "いけいけ! 熱血ホッケー部 すべってころんで大乱闘": {
@@ -4092,7 +4140,14 @@
     "いっき": {
       "romaji": "ikki",
       "pages": [
-        "E:/サムネ/FC サムネ/Ikki/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Ikki/説明書/0.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3946_3947.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3948_3949.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3950_3951.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3952_3953.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3954_3955.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3956_3957.webp",
+        "E:/サムネ/FC サムネ/Ikki/説明書/3958_3959.webp"
       ]
     },
     "じゃりン子チエ ばくだん娘の幸せさがし": {
@@ -4136,7 +4191,12 @@
     "けっきょく南極大冒険": {
       "romaji": "kekkyoku nankyoku daibouken",
       "pages": [
-        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (145).webp"
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3961).webp",
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3962).webp",
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3963).webp",
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3964).webp",
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3965).webp",
+        "E:/サムネ/FC サムネ/Kekkyoku Nankyoku Daibouken/説明書/スクリーンショット (3966).webp"
       ]
     },
     "キングスナイト": {
@@ -5326,7 +5386,24 @@
     "大爆笑!!人生劇場 大江戸日記": {
       "romaji": "daibakusyou jinseigekijyou ooedonikki",
       "pages": [
-        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/Noimage.webp"
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0001_0002.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0003_0004.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0005_0006.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0007_0008.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0009_0010.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0011_0012.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0013_0014.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0015_0016.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0017_0018.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0019_0020.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0021_0022.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0023_0024.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0025_0026.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0027_0028.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0029_0030.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0031_0032.webp",
+        "E:/サムネ/SFC サムネ/Daibakusyou Jinseigekijyou Ooedonikki/説明書/0033_0034.webp"
       ]
     },
     "大航海時代2": {
@@ -5586,7 +5663,30 @@
     "ダウン・ザ・ワールド": {
       "romaji": "down the world - mervil's ambition",
       "pages": [
-        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/Noimage.webp"
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/0.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3968_3969.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3970_3971.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3972_3973.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3974_3975.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3976_3977.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3978_3979.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3980_3981.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3982_3983.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3984_3985.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3986_3987.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3988_3989.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3990_3991.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3992_3993.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3994_3995.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3996_3997.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/3998_3999.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4000_4001.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4002_4003.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4004_4005.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4006_4007.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4008_4009.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4010_4011.webp",
+        "E:/サムネ/SFC サムネ/DOWN THE WORLD/説明書/4012_4013.webp"
       ]
     },
     "ダウンタウン熱血べーすぼーる物語 野球で勝負だ!くにおくん": {
@@ -7111,14 +7211,7 @@
     "囲碁倶楽部": {
       "romaji": "igo club",
       "pages": [
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225508.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225512.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225516.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225520.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225524.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225528.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225532.webp",
-        "E:/サムネ/SFC サムネ/igo club/説明書/20230208225537.webp"
+        "E:/サムネ/SFC サムネ/igo club/説明書/Noimage.webp"
       ]
     },
     "イーハトーヴォ物語": {
@@ -15880,7 +15973,36 @@
     "ドラゴンクエスト7 エデンの戦士たち": {
       "romaji": "dragon quest vii - eden no senshi-tachi",
       "pages": [
-        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/Noimage.webp"
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019113851.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019113948.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019113949.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114039.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114348.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114433.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114517.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114602.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114653.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114739.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114821.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019114905.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115013.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115110.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115157.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115412.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115500.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115549.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115640.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115733.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115829.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019115913.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120001.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120048.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120133.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120229.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120318.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120414.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120517.webp",
+        "E:/サムネ/PS サムネ/Dragon Quest VII - Eden no Senshi-tachi/説明書/IMG_20261019120610.webp"
       ]
     },
     "エコーナイト": {
@@ -17362,18 +17484,6 @@
         "E:/サムネ/PS2 サムネ/DRAGON QUEST V -tenkuu no hanayome-/説明書/IMG_20260923113024.webp"
       ]
     },
-    "ファイナルファンタジー10": {
-      "romaji": "final fantasy x",
-      "pages": [
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/Noimage.webp"
-      ]
-    },
-    "ファイナルファンタジー10-2": {
-      "romaji": "final fantasy x2",
-      "pages": [
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/Noimage.webp"
-      ]
-    },
     "ドラゴンクエスト8 空と海と大地と呪われし姫君": {
       "romaji": "dragon quest viii -sora to umi to daiti to norowaresi himegimi-",
       "pages": [
@@ -17407,29 +17517,17 @@
     "実戦パチスロ必勝法! 北斗の拳": {
       "romaji": "jissen pachisuro hisshouhou! hokuto no ken",
       "pages": [
-        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/Noimage.webp"
-      ]
-    },
-    "ファイナルファンタジー12": {
-      "romaji": "final fantasy ⅻ",
-      "pages": [
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923130225.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131216.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131311.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131421.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131524.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131711.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131805.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131859.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131958.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132055.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132146.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132245.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132355.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132445.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132537.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132630.webp",
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132728.webp"
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163523.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163608.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163649.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163738.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163819.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163905.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019163948.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019164029.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019164119.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019164223.webp",
+        "E:/サムネ/PS2 サムネ/Jissen Pachisuro Hisshouhou! Hokuto no Ken/説明書/IMG_20261019164301.webp"
       ]
     },
     "幻想水滸伝Ⅲ": {
@@ -17492,7 +17590,26 @@
     "レガイア デュエルサーガ": {
       "romaji": "legaia duelsaga",
       "pages": [
-        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/Noimage.webp"
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019140710.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019140819.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019140909.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019140956.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019141051.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019141136.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019141217.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019141317.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019141414.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142022.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142105.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142149.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142234.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142320.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142427.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142537.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142638.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142741.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142835.webp",
+        "E:/サムネ/PS2 サムネ/Legaia Duelsaga/説明書/IMG_20261019142912.webp"
       ]
     },
     "メタルギアソリッド2 サンズ・オブ・リバティ": {
@@ -17953,6 +18070,108 @@
         "E:/サムネ/PS2 サムネ/Tokimeki Memorial 3 -Yakusoku no ano Basyode -/説明書/IMG_20260926130007.webp",
         "E:/サムネ/PS2 サムネ/Tokimeki Memorial 3 -Yakusoku no ano Basyode -/説明書/IMG_20260926130208.webp",
         "E:/サムネ/PS2 サムネ/Tokimeki Memorial 3 -Yakusoku no ano Basyode -/説明書/IMG_20260926130313.webp"
+      ]
+    },
+    "龍が如く2": {
+      "romaji": "ryu ga gotoku 2",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016205555.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016205701.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016205828.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016205914.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210000.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210052.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210341.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210426.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210512.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210555.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210644.webp",
+        "E:/サムネ/PS2 サムネ/Ryu ga Gotoku 2/説明書/IMG_20261016210726.webp"
+      ]
+    },
+    "ガラクタ名作劇場 ラクガキ王国": {
+      "romaji": "galacta meisaku gekijou - rakugaki oukouku",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/0.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153520.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153614.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153711.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153753.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153855.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016153956.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154121.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154209.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154301.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154347.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154436.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154525.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154612.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154654.webp",
+        "E:/サムネ/PS2 サムネ/Galacta Meisaku Gekijou - Rakugaki Oukouku/説明書/IMG_20261016154749.webp"
+      ]
+    },
+    "ファイナルファンタジーX": {
+      "romaji": "final fantasy x",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091331.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091423.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091509.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091554.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091641.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091727.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091818.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019091929.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019092020.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019092110.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019092202.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X/説明書/IMG_20261019092233.webp"
+      ]
+    },
+    "ファイナルファンタジーⅫ": {
+      "romaji": "final fantasy ⅻ",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923130225.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131216.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131311.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131421.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131524.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131711.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131805.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131859.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923131958.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132055.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132146.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132245.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132355.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132445.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132537.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132630.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY Ⅻ/説明書/IMG_20260923132728.webp"
+      ]
+    },
+    "ファイナルファンタジーX2": {
+      "romaji": "final fantasy x2",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/Noimage.webp"
+      ]
+    },
+    "サイレン": {
+      "romaji": "siren",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019171517.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019171612.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019171800.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019171902.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019171947.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172034.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172135.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172238.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172319.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172404.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172450.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172534.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172638.webp",
+        "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172726.webp"
       ]
     }
   },
