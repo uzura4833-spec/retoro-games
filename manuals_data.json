@@ -14,15 +14,15 @@
     "ファミリーコンピュータ ディスクシステム"
   ],
   "_closed_consoles": [
-    "PCエンジン SuperCD-ROM2",
-    "PCエンジン Huカード",
-    "PCエンジン CD-ROM2",
-    "PCエンジン SuperGraphics",
     "ファミリーコンピュータ",
     "スーパーファミコン",
     "ファミリーコンピュータ ディスクシステム",
-    "プレイステーション",
     "PlayStation Portable",
+    "PCエンジン SuperGraphics",
+    "PCエンジン Huカード",
+    "PCエンジン CD-ROM2",
+    "PCエンジン SuperCD-ROM2",
+    "プレイステーション",
     "セガサターン"
   ],
   "ファミリーコンピュータ": {
@@ -12418,10 +12418,10 @@
     "1943改": {
       "romaji": "1943 kai",
       "pages": [
-        "E:/サムネ/PCE サムネ/1941/説明書/20220831101559.webp",
-        "E:/サムネ/PCE サムネ/1941/説明書/20220831101603.webp",
-        "E:/サムネ/PCE サムネ/1941/説明書/20220831101608.webp",
-        "E:/サムネ/PCE サムネ/1941/説明書/20220831101614.webp"
+        "E:/サムネ/PCE サムネ/1943 Kai/20220831101559.webp",
+        "E:/サムネ/PCE サムネ/1943 Kai/20220831101603.webp",
+        "E:/サムネ/PCE サムネ/1943 Kai/20220831101608.webp",
+        "E:/サムネ/PCE サムネ/1943 Kai/20220831101614.webp"
       ]
     },
     "21エモン めざせホテル王": {
@@ -13501,10 +13501,10 @@
     "カトちゃんケンちゃん": {
       "romaji": "kato-chan ken-chan",
       "pages": [
-        "E:/サムネ/PCE サムネ/Kato Chan & Ken Chan/説明書/20230331225734.jpg",
-        "E:/サムネ/PCE サムネ/Kato Chan & Ken Chan/説明書/20230331225739.jpg",
-        "E:/サムネ/PCE サムネ/Kato Chan & Ken Chan/説明書/20230331225744.jpg",
-        "E:/サムネ/PCE サムネ/Kato Chan & Ken Chan/説明書/20230331225749.jpg"
+        "E:/サムネ/PCE サムネ/Kato-chan Ken-chan/説明書/20230331225734.webp",
+        "E:/サムネ/PCE サムネ/Kato-chan Ken-chan/説明書/20230331225739.webp",
+        "E:/サムネ/PCE サムネ/Kato-chan Ken-chan/説明書/20230331225744.webp",
+        "E:/サムネ/PCE サムネ/Kato-chan Ken-chan/説明書/20230331225749.webp"
       ]
     },
     "カットビ! 宅配くん": {
@@ -14427,10 +14427,10 @@
     "R-TYPE 2": {
       "romaji": "r-type ii",
       "pages": [
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0007_0000.webp",
         "E:/サムネ/PCE サムネ/R-Type II/説明書/0001_0002.webp",
         "E:/サムネ/PCE サムネ/R-Type II/説明書/0003_0004.webp",
-        "E:/サムネ/PCE サムネ/R-Type II/説明書/0005_0006.webp",
-        "E:/サムネ/PCE サムネ/R-Type II/説明書/0007_0000.webp"
+        "E:/サムネ/PCE サムネ/R-Type II/説明書/0005_0006.webp"
       ]
     },
     "S.C.I.": {
@@ -15419,7 +15419,14 @@
     "銀河お嬢様伝説ユナ": {
       "romaji": "ginga ojousama densetsu yuna",
       "pages": [
-        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/Noimage.webp"
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/0.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4019_4020.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4021_4022.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4023_4024.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4025_4026.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4027_4028.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4029_4030.webp",
+        "E:/サムネ/PCE サムネ/Ginga Ojousama Densetsu Yuna/説明書/4031_4032.webp"
       ]
     },
     "ルーム": {
@@ -17123,7 +17130,16 @@
     "トワイライトシンドローム 再会": {
       "romaji": "twilight syndrome - saikai",
       "pages": [
-        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/Noimage.webp"
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai001-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai002-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai003-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai004-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai005-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai006-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai007-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai008-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai009-1024x510.webp",
+        "E:/サムネ/PS サムネ/Twilight Syndrome - Saikai/説明書/TwilightSyndromesaikai010-1024x510.webp"
       ]
     },
     "トワイライトシンドローム 探索編": {
@@ -17322,7 +17338,22 @@
     "雪割りの花": {
       "romaji": "yarudora series vol.4 - yukiwari no hana",
       "pages": [
-        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/Noimage.webp"
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana001-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana002-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana003-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana004-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana005-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana006-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana007-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana008-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana009-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana010-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana011-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana012-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana013-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana014-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana015-1024x510.webp",
+        "E:/サムネ/PS サムネ/Yarudora Series Vol.4 - Yukiwari no Hana/説明書/YukiwarinoHana016-1024x510.webp"
       ]
     },
     "夕闇通り探検隊": {
@@ -18152,7 +18183,18 @@
     "ファイナルファンタジーX2": {
       "romaji": "final fantasy x2",
       "pages": [
-        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/Noimage.webp"
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023075208.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023075313.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023075355.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023075440.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023075714.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080431.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080513.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080603.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080647.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080738.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023080935.webp",
+        "E:/サムネ/PS2 サムネ/FINAL FANTASY X2/説明書/IMG_20261023081018.webp"
       ]
     },
     "サイレン": {
@@ -18172,6 +18214,33 @@
         "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172534.webp",
         "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172638.webp",
         "E:/サムネ/PS2 サムネ/Siren/説明書/IMG_20261019172726.webp"
+      ]
+    },
+    "グランツーリスモ3 A-spec": {
+      "romaji": "gran turismo 3 a-spec",
+      "pages": [
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023081415.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023081915.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082024.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082114.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082226.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082310.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082435.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082521.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082605.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082648.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082733.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082818.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082902.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023082945.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083118.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083201.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083258.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083400.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083458.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083543.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083627.webp",
+        "E:/サムネ/PS2 サムネ/Gran Turismo 3 A-spec/説明書/IMG_20261023083711.webp"
       ]
     }
   },
@@ -18995,6 +19064,63 @@
         "E:/サムネ/SS サムネ/puyopuyo sun/説明書/IMG_20261012211654.webp",
         "E:/サムネ/SS サムネ/puyopuyo sun/説明書/IMG_20261012211903.webp",
         "E:/サムネ/SS サムネ/puyopuyo sun/説明書/IMG_20261012212136.webp"
+      ]
+    },
+    "くるりんPA!": {
+      "romaji": "kururin pa",
+      "pages": [
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112002.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112530.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112616.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112702.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112752.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112836.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022112922.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113023.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113118.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113216.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113308.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113359.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113513.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113601.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113650.webp",
+        "E:/サムネ/SS サムネ/KURURIN PA/説明書/IMG_20261022113740.webp"
+      ]
+    },
+    "DX人生ゲーム2": {
+      "romaji": "dx jinsei game ii",
+      "pages": [
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190005.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190129.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190244.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190343.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190442.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190533.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190647.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190752.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190850.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022190942.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022191033.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022191129.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022191223.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022191336.webp",
+        "E:/サムネ/SS サムネ/DX JINSEI GAME II/説明書/IMG_20261022191424.webp"
+      ]
+    },
+    "ゲームウェア 第3号": {
+      "romaji": "gameware3",
+      "pages": [
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192015.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192222.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192316.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192402.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192450.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192547.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022192638.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022203733.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022204025.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022204116.webp",
+        "E:/サムネ/SS サムネ/GAMEWARE3/説明書/IMG_20261022204209.webp"
       ]
     }
   }
